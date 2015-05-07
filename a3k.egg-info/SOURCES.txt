@@ -1,0 +1,11 @@
+DESCRIPTION.rst
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+a3k.egg-info/PKG-INFO
+a3k.egg-info/SOURCES.txt
+a3k.egg-info/dependency_links.txt
+a3k.egg-info/entry_points.txt
+a3k.egg-info/requires.txt
+a3k.egg-info/top_level.txt
